@@ -1,0 +1,11 @@
+[project]
+name = "PreparedFastTravelEnhanced"
+version = "2.5.0"
+description = "Speeds up solo New-U travel, area exits, and loading a saved game."
+
+[tool.sdkmod]
+name = "Faster Fast Travel"
+mod_type = "Standard"
+supported_games = ["BL1E"]
+coop_support = "HostOnly"
+auto_enable = true
